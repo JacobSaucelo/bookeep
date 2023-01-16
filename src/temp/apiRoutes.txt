@@ -1,0 +1,72 @@
+knowledge quotes 
+    https://api.themotivate365.com/stoic-quote
+
+
+search: 
+    https://www.googleapis.com/books/v1/volumes?q=${searchterm}
+searchbyid: 
+    https://www.googleapis.com/books/v1/volumes/${id}
+
+
+ids on google books site
+Volume ID: 
+    https://books.google.com/ebooks?id=buc0AAAAMAAJ&dq=holmes&as_brr=4&source=webstore_bookcard
+Bookshelf ID:
+    https://books.google.com/books?hl=en&as_coll=0&num=10&uid=11122233344455566778&source=gbs_slider_cls_metadata_0_mylibrary
+User ID:
+    https://books.google.com/books?uid=11122233344455566778&source=gbs_lp_bookshelf_list    
+
+
+Volumes:
+    GET https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=yourAPIKey
+    https://www.googleapis.com/books/v1/volumes?q=${search+terms}
+
+filtering: 
+    GET https://www.googleapis.com/books/v1/volumes?q=flowers&filter=free-ebooks&key=${yourAPIKey}
+    filter=
+    parameters {
+        partial
+        full
+        free-ebooks
+        paid-ebooks
+        ebooks
+    }
+
+Pagination
+    parameters {
+        startIndex=
+        maxResults=40 //MAX === 40
+    }
+
+PrintType
+    printType=
+        parameters {
+            all
+            books
+            magazines
+        }
+
+Sorting
+    orderBy=
+        parameters {
+            relevance
+            newest
+        }
+
+Specific value
+    GET https://www.googleapis.com/books/v1/volumes/zyTCAlFPjgYC?key=yourAPIKey
+    GET https://www.googleapis.com/books/v1/volumes/${volumeId}
+    volumeId=
+
+User bookshelves
+    GET https://www.googleapis.com/books/v1/users/1112223334445556677/bookshelves&key=yourAPIKey
+    https://www.googleapis.com/books/v1/users/1112223334445556677/bookshelves/shelf
+    https://www.googleapis.com/books/v1/users/userId/bookshelves/3
+    userId=
+    shelf=
+
+    https://www.googleapis.com/books/v1/users/117522004192189783614/bookshelves/1021/volumes
+
+
+    subjext
+    https://openlibrary.org/dev/docs/api/subjects

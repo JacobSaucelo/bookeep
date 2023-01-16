@@ -1,0 +1,112 @@
+[
+  {
+    "Rank": 1,
+    "Title": "Da Vinci Code",
+    "Author": "Brown, Dan",
+    "Volume_Sales": 5094805,
+    "Editions_Combined": 7,
+    "Imprint": "Corgi Books",
+    "Publisher": "Transworld Grp",
+    "Publication_Date": "Monday, March 1, 2004",
+    "Genre": "F2.1  Crime, Thriller &amp; Adventure"
+  },
+  {
+    "Rank": 2,
+    "Title": "Harry Potter and the Deathly Hallows",
+    "Author": "Rowling, J.K.",
+    "Volume_Sales": 4475152,
+    "Editions_Combined": 8,
+    "Imprint": "Bloomsbury Publishing PLC",
+    "Publisher": "Bloomsbury Grp",
+    "Publication_Date": "Saturday, July 21, 2007",
+    "Genre": "Y2.1  Children's Fiction"
+  },
+  {
+    "Rank": 3,
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "Author": "Rowling, J.K.",
+    "Volume_Sales": 4200654,
+    "Editions_Combined": 8,
+    "Imprint": "Bloomsbury Publishing PLC",
+    "Publisher": "Bloomsbury Grp",
+    "Publication_Date": "Thursday, June 26, 1997",
+    "Genre": "Y2.1  Children's Fiction"
+  },
+  {
+    "Rank": 4,
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Author": "Rowling, J.K.",
+    "Volume_Sales": 4179479,
+    "Editions_Combined": 5,
+    "Imprint": "Bloomsbury Publishing PLC",
+    "Publisher": "Bloomsbury Grp",
+    "Publication_Date": "Saturday, April 26, 2003",
+    "Genre": "Y2.1  Children's Fiction"
+  },
+  {
+    "Rank": 5,
+    "Title": "Fifty Shades of Grey",
+    "Author": "James, E. L.",
+    "Volume_Sales": 3758936,
+    "Editions_Combined": 1,
+    "Imprint": "Arrow Books",
+    "Publisher": "Random House Grp",
+    "Publication_Date": "Thursday, April 12, 2012",
+    "Genre": "F2.5  Romance &amp; Sagas"
+  },
+  {
+    "Rank": 6,
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Author": "Rowling, J.K.",
+    "Volume_Sales": 3583215,
+    "Editions_Combined": 7,
+    "Imprint": "Bloomsbury Publishing PLC",
+    "Publisher": "Bloomsbury Grp",
+    "Publication_Date": "Saturday, March 24, 2001",
+    "Genre": "Y2.1  Children's Fiction"
+  },
+  {
+    "Rank": 7,
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Author": "Rowling, J.K.",
+    "Volume_Sales": 3484047,
+    "Editions_Combined": 8,
+    "Imprint": "Bloomsbury Publishing PLC",
+    "Publisher": "Bloomsbury Grp",
+    "Publication_Date": "Saturday, January 2, 1999",
+    "Genre": "Y2.1  Children's Fiction"
+  },
+  {
+    "Rank": 8,
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Author": "Rowling, J.K.",
+    "Volume_Sales": 3377906,
+    "Editions_Combined": 8,
+    "Imprint": "Bloomsbury Publishing PLC",
+    "Publisher": "Bloomsbury Grp",
+    "Publication_Date": "Saturday, April 1, 2000",
+    "Genre": "Y2.1  Children's Fiction"
+  },
+  {
+    "Rank": 9,
+    "Title": "Angels and Demons",
+    "Author": "Brown, Dan",
+    "Volume_Sales": 3193946,
+    "Editions_Combined": 5,
+    "Imprint": "Corgi Books",
+    "Publisher": "Transworld Grp",
+    "Publication_Date": "Tuesday, July 1, 2003",
+    "Genre": "F2.1  Crime, Thriller &amp; Adventure"
+  },
+  {
+    "Rank": 10,
+    "Title": "Harry Potter and the Half-blood Prince:Children's Edition",
+    "Author": "Rowling, J.K.",
+    "Volume_Sales": 2950264,
+    "Editions_Combined": 1,
+    "Imprint": "Bloomsbury Publishing PLC",
+    "Publisher": "Bloomsbury Grp",
+    "Publication_Date": "Saturday, April 9, 2005",
+    "Genre": "Y2.1  Children's Fiction"
+  }
+]
